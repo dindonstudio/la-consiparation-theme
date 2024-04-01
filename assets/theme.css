@@ -12402,6 +12402,10 @@ padding-bottom: 0.5rem;
   .hero__sidebyside-content-inner h2{
 margin: 0;
   }
+  .blog-layout p{
+    font-size: 17px;
+    line-height: 130%;
+  }
 @media only screen and (max-width:768px){
   .hero__sidebyside-content-inner h2{
     font-size: 25px !important;
@@ -12438,7 +12442,10 @@ margin: 0;
       display:none;
     }
 }
-
+.blog-layout p{
+  font-size: 16px;
+  line-height: 130%;
+}
 .article__comment{
   margin-bottom:20px
 }
