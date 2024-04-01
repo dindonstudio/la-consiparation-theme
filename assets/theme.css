@@ -4748,13 +4748,13 @@ form+.footer__social{
   }
 
 .rte--block{
-  margin-bottom:8px
+  margin-bottom:10px
 }
 
 @media only screen and (min-width:769px){
 
 .rte--block{
-    margin-bottom:12px
+    margin-bottom:15px
 }
   }
 

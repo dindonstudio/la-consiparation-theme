@@ -128,9 +128,10 @@
                 {%- if section.settings.link == blank -%}
                   {%- assign link_href = section.settings.video_url -%}
                 {%- endif -%}
+             
                 <div class="hero__link">
                   <a href="{{ link_href }}"
-                     class="btn{% if section.settings.color_accent and section.settings.color_accent == 'rgba(0,0,0,0)' %} btn--inverse{% endif %}"
+                     class="customButton {% if section.settings.color_accent and section.settings.color_accent == 'rgba(0,0,0,0)' %} btn--inverse{% endif %}"
                      {%- if section.settings.video_url contains 'vimeo.com' -%}
                       data-video-id="{{ video_id }}"
                      {%- endif -%}
@@ -138,7 +139,12 @@
                     {%- if link_href contains 'youtube.com/watch' or link_href contains 'youtu.be/' -%}
                       <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-play" viewBox="18.24 17.35 24.52 28.3"><path fill="#323232" d="M22.1 19.151v25.5l20.4-13.489-20.4-12.011z"/></svg>
                     {%- endif -%}
-                    {{ section.settings.link_text }}
+                    <div class="flex">
+                      {{ section.settings.link_text }}
+
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 13 12" fill="none">
+                      <path d="M5.50004 10L8.79299 6.70708C9.18352 6.31655 9.18352 5.68338 8.79299 5.29286L5.50003 1.99996" stroke="white" stroke-linecap="round"/>
+                    </svg>                    </div>
                   </a>
                 </div>
               {%- endif -%}
@@ -153,8 +159,43 @@
 {%- unless section.settings.full_width -%}
   </div>
 {%- endunless -%}
+<style>
+  .customButton{
+    background-color: transparent !important;
+    color: white;
+    font-size: 13px;
+  }
+  .customButton:hover{
+    color: white;
+  }
+  .customButton{
+    font-size: 13px;
+  }
+  .h1.hero__title{
+    font-size: 58px;
+    padding-bottom: 15px;
+  }
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media (max-width: 767px) {
 
+.h1.hero__title{
+    font-size: 32px ;
+    padding-bottom: 13px;
+  }
+  .hero__text-shadow{
+    padding-bottom: 20px;
+  }
+}
+
+
+
+</style>
 {% schema %}
+
 {
   "name": "t:sections.hero-video.name",
   "class": "index-section--hero",

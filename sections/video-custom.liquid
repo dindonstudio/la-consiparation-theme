@@ -1,0 +1,46 @@
+<div class="">
+  <div class="">
+    <video
+      src="{{ section.settings.video.sources[1].url  }}"
+      autoplay
+      poster="{{ section.settings.image  | image_url: width: 800 }}"
+      muted
+      playsinline
+      class="w-full h-full object-cover "
+      loop></video>
+  </div>
+
+
+</div>
+
+
+{% schema %}
+  {
+    "name": "Full Width Video",
+    "class": "section",
+    "tag": "section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title"
+      },
+
+
+      {
+        "type": "video",
+        "id": "video",
+        "label": "video (if a video is uploaded it will be shown instead of the image)"
+
+      },
+
+    ],
+    "presets": [
+      {
+        "name": "Video Custom",
+        "category": "Custom"
+      }
+    ]
+
+  }
+{% endschema %}
