@@ -320,6 +320,9 @@
     },
     "ab24d7e9-520f-4d9a-b824-311485941f54": {
       "type": "instafeed",
+      "custom_css": [
+        "#insta-feed{margin-top:80px;}"
+      ],
       "settings": {
         "heading_size": 16,
         "feed_width": 100,
