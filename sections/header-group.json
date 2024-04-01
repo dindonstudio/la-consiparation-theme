@@ -44,7 +44,7 @@
         "eaaf2c97-817a-4e80-9af8-32c9e465b6d7"
       ],
       "custom_css": [
-        "header {position: relative; height: 80px;}"
+        "header {position: relative; height: 130px;}"
       ],
       "settings": {
         "main_menu_link_list": "main-menu",
