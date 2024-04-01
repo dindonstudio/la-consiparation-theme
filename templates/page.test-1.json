@@ -55,7 +55,7 @@
     "hero_video_UhcbrQ": {
       "type": "hero-video",
       "custom_css": [
-        ".videoCustom{margin:10px auto;}"
+        ".videoCustom {margin: 20px auto;}"
       ],
       "settings": {
         "full_width": false,
