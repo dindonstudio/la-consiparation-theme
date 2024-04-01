@@ -1,1 +1,374 @@
-{"sections":{"slideshow":{"type":"slideshow","blocks":{"slideshow-0":{"type":"hero","settings":{"top_subheading":"","title":"<p>Notre histoire<\/p>","title_size":50,"subheading":"","link":"shopify:\/\/pages\/notre-histoire","link_text":"","link_2":"","link_text_2":"","color_accent":"#1e2f5d","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg","image_mobile":"shopify:\/\/shop_images\/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg","overlay_opacity":0}},"slideshow-1":{"type":"hero","settings":{"top_subheading":"","title":"<p>Nos spiritueux<\/p>","title_size":50,"subheading":"","link":"shopify:\/\/pages\/nos-produits","link_text":"","link_2":"","link_text_2":"","color_accent":"#530606","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg","image_mobile":"shopify:\/\/shop_images\/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg","overlay_opacity":0}},"136bc641-82d0-4a6b-8018-7c32ce92c786":{"type":"hero","settings":{"top_subheading":"","title":"<p>Nous contacter<\/p>","title_size":50,"subheading":"","link":"shopify:\/\/pages\/contact","link_text":"","link_2":"","link_text_2":"","color_accent":"#15ed10","text_align":"vertical-bottom horizontal-center","image":"shopify:\/\/shop_images\/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg","image_mobile":"shopify:\/\/shop_images\/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg","overlay_opacity":0}}},"block_order":["slideshow-0","slideshow-1","136bc641-82d0-4a6b-8018-7c32ce92c786"],"custom_css":[".hero__link .btn {font-size: 15px;}"],"settings":{"full_width":true,"desktop_size":-10,"mobile_size":20,"style":"arrows","autoplay":true,"autoplay_speed":6,"lazyload_images":true}},"76f128a3-8a28-4402-966a-7fef69f853e8":{"type":"text-columns","blocks":{"template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-0":{"type":"text_block","settings":{"enable_image":false,"image_mask":"none","image_width":60,"title":"Expérimental","text":"<p>Une approche vigneronne inédite dans la manière d’aborder et d’assembler nos spiritueux, au plus près du fruit, des plantes et des épices.<\/p>","button_label":"","button_link":""}},"template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-1":{"type":"text_block","settings":{"enable_image":false,"image_mask":"none","image_width":120,"title":"Artisanal","text":"<p>Des outils simples, des gestes de toujours, des ingrédients bio soigneusement sélectionnés, pour des productions en série limitée.<\/p>","button_label":"","button_link":""}},"template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-2":{"type":"text_block","settings":{"enable_image":false,"image_mask":"none","image_width":120,"title":"Local","text":"<p>Une distillerie au cœur des vignes de champagne, pour se nourrir des meilleurs raisins, aignes et rebèches. <\/p>","button_label":"","button_link":""}}},"block_order":["template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-0","template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-1","template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-2"],"settings":{"title":"","align_text":"center","divider":false,"color_scheme":"1"}},"featured-collections":{"type":"featured-collections","blocks":{"featured-collections-3":{"type":"collection","settings":{"collection":"coup-detat-gin-de-fine","title":"Coup d'état - Gin de fine"}},"featured-collections-0":{"type":"collection","settings":{"collection":"nos-gins","title":"Gins de terroir"}},"featured-collections-1":{"type":"collection","settings":{"collection":"notre-alcool-de-malts","title":"Alcool de malts"}},"featured-collections-2":{"type":"collection","settings":{"collection":"notre-fine-champenoise","title":"Fine champenoise"}},"featured-collections-4":{"type":"collection","disabled":true,"settings":{"collection":"","title":""}},"featured-collections-5":{"type":"collection","disabled":true,"settings":{"collection":"","title":""}}},"block_order":["featured-collections-3","featured-collections-0","featured-collections-1","featured-collections-2","featured-collections-4","featured-collections-5"],"settings":{"title":"","heading_size":"h2","heading_position":"left","divider":true}},"5423bdd9-86d7-4dc3-8e0d-f0f42be89558":{"type":"text-and-image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/couvCMD.jpg","image_mask":"none","image2":"shopify:\/\/shop_images\/det020.jpg","image2_mask":"none","subtitle":"","title":"Rencontre avec M Le Monde","heading_size":"h2","text":"<p>Entretien avec Laure Gasparotto en terroir champenois.<\/p>","button_label":"Lire l'article","button_link":"https:\/\/www.lemonde.fr\/le-monde-passe-a-table\/article\/2023\/06\/18\/en-champagne-la-conspiration-repaire-des-amoureux-de-spiritueux_6178200_6082232.html","button_style":"primary","align_text":"left","image_width":"66","layout":"right","color_scheme":"1","divider":false,"top_padding":false,"bottom_padding":false,"lazyload_images":true}},"3ff7ede5-ba19-4392-adf2-8e4f33533ec9":{"type":"hero-video","custom_css":[".video-parent-section {margin-bottom: 100px;}","@media (max-width: 680px) {.video-parent-section {margin-bottom: 0px; display: flex; align-items: center; } .hero__media-container.custom {display: flex; padding-bottom: 30px; }}",".video__container {height: 100%; width: 100%; display: flex; justify-content: center;}",".video__container .hero__media-container {position: relative;}",".video__container video {object-fit: contain; height: auto; width: 100%;}"],"settings":{"full_width":false,"title":"","title_size":70,"subheading":"","link_text":"","link":"","color_accent":"#ffffff","text_align":"vertical-center horizontal-center","video_url":"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/732c4250ad484d2dbb8e0fbe777f6eab.mp4","overlay_opacity":0,"height":750,"height_mobile":250}},"slideshow-split":{"type":"slideshow-split","blocks":{"slideshow-split-1":{"type":"slide","settings":{"top_subheading":"","title":"M Le Monde","title_size":40,"subheading":"\"Repaire de conspirateurs\" par Laure Gasparotto.\n\nPhotographies \nMickael Vis.","link":"https:\/\/www.lemonde.fr\/le-monde-passe-a-table\/article\/2023\/06\/18\/en-champagne-la-conspiration-repaire-des-amoureux-de-spiritueux_6178200_6082232.html","link_text":"Lire l'article","link_2":"","link_text_2":"","text_position":"left","image":"shopify:\/\/shop_images\/det020.jpg","indent_image":false,"color_scheme":"none"}},"4fb8d1e0-3370-4694-b2b4-fd4eafce37b3":{"type":"slide","disabled":true,"settings":{"top_subheading":"","title":"Side by Side Slide","title_size":60,"subheading":"Add optional subtext","link":"","link_text":"Optional button","link_2":"","link_text_2":"","text_position":"left","indent_image":false,"color_scheme":"none"}}},"block_order":["slideshow-split-1","4fb8d1e0-3370-4694-b2b4-fd4eafce37b3"],"settings":{"full_width":true,"height":600,"height_mobile":450,"style":"arrows","autoplay":true,"autoplay_speed":7,"lazyload_images":true}},"ab24d7e9-520f-4d9a-b824-311485941f54":{"type":"instafeed","settings":{"heading_size":16,"feed_width":100,"html_area":""}},"f6c79ce4-4342-4f64-8954-2363c3499771":{"type":"newsletter","blocks":{"template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-0":{"type":"title","settings":{"title":"Suivez nos dernières expérimentations !","heading_size":"h3"}},"template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-1":{"type":"text","settings":{"text":"<p>Pour être les premiers informés de nos nouveautés, <br\/>nos actualités, nos offres exclusives, c'est par ici :<\/p>"}},"template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-2":{"type":"form","settings":{}}},"block_order":["template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-0","template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-1","template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-2"],"custom_css":[".newsletter__input-group input {background-color: #f7f7f7 !important;}"],"settings":{"color_scheme":"1","align_text":"center","image_width":"33","image_mask":"none","image_position":"right","divider":false,"top_padding":true,"bottom_padding":true}}},"order":["slideshow","76f128a3-8a28-4402-966a-7fef69f853e8","featured-collections","5423bdd9-86d7-4dc3-8e0d-f0f42be89558","3ff7ede5-ba19-4392-adf2-8e4f33533ec9","slideshow-split","ab24d7e9-520f-4d9a-b824-311485941f54","f6c79ce4-4342-4f64-8954-2363c3499771"]}
+{
+  "sections": {
+    "hero_video_djwUbh": {
+      "type": "hero-video",
+      "settings": {
+        "full_width": true,
+        "title": "La Conspiration",
+        "title_size": 70,
+        "subheading": "",
+        "link_text": "DÉCOUVREZ NOS GINS",
+        "link": "shopify:\/\/collections\/all",
+        "color_accent": "#ffffff",
+        "text_align": "vertical-bottom horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/301b7b7c0e15445d80e59e8fafbcec9a.mp4",
+        "overlay_opacity": 0,
+        "height": 650,
+        "height_mobile": 300
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Notre histoire<\/p>",
+            "title_size": 50,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/notre-histoire",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#1e2f5d",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "slideshow-1": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Nos spiritueux<\/p>",
+            "title_size": 50,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/nos-produits",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#530606",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "136bc641-82d0-4a6b-8018-7c32ce92c786": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Nous contacter<\/p>",
+            "title_size": 50,
+            "subheading": "",
+            "link": "shopify:\/\/pages\/contact",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#15ed10",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "slideshow-1",
+        "136bc641-82d0-4a6b-8018-7c32ce92c786"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".hero__link .btn {font-size: 15px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": -10,
+        "mobile_size": 20,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 6,
+        "lazyload_images": true
+      }
+    },
+    "76f128a3-8a28-4402-966a-7fef69f853e8": {
+      "type": "text-columns",
+      "blocks": {
+        "template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 60,
+            "title": "Expérimental",
+            "text": "<p>Une approche vigneronne inédite dans la manière d’aborder et d’assembler nos spiritueux, au plus près du fruit, des plantes et des épices.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 120,
+            "title": "Artisanal",
+            "text": "<p>Des outils simples, des gestes de toujours, des ingrédients bio soigneusement sélectionnés, pour des productions en série limitée.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_mask": "none",
+            "image_width": 120,
+            "title": "Local",
+            "text": "<p>Une distillerie au cœur des vignes de champagne, pour se nourrir des meilleurs raisins, aignes et rebèches. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-0",
+        "template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-1",
+        "template--17736627749132__76f128a3-8a28-4402-966a-7fef69f853e8-1677329770585427cd-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false,
+        "color_scheme": "1"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "coup-detat-gin-de-fine",
+            "title": "Coup d'état - Gin de fine"
+          }
+        },
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "nos-gins",
+            "title": "Gins de terroir"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "notre-alcool-de-malts",
+            "title": "Alcool de malts"
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "notre-fine-champenoise",
+            "title": "Fine champenoise"
+          }
+        },
+        "featured-collections-4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        },
+        "featured-collections-5": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-3",
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-4",
+        "featured-collections-5"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "heading_position": "left",
+        "divider": true
+      }
+    },
+    "5423bdd9-86d7-4dc3-8e0d-f0f42be89558": {
+      "type": "text-and-image",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/couvCMD.jpg",
+        "image_mask": "none",
+        "image2": "shopify:\/\/shop_images\/det020.jpg",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Rencontre avec M Le Monde",
+        "heading_size": "h2",
+        "text": "<p>Entretien avec Laure Gasparotto en terroir champenois.<\/p>",
+        "button_label": "Lire l'article",
+        "button_link": "https:\/\/www.lemonde.fr\/le-monde-passe-a-table\/article\/2023\/06\/18\/en-champagne-la-conspiration-repaire-des-amoureux-de-spiritueux_6178200_6082232.html",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "66",
+        "layout": "right",
+        "color_scheme": "1",
+        "divider": false,
+        "top_padding": false,
+        "bottom_padding": false,
+        "lazyload_images": true
+      }
+    },
+    "3ff7ede5-ba19-4392-adf2-8e4f33533ec9": {
+      "type": "hero-video",
+      "custom_css": [
+        ".video-parent-section {margin-bottom: 100px;}",
+        "@media (max-width: 680px) {.video-parent-section {margin-bottom: 0px; display: flex; align-items: center; } .hero__media-container.custom {display: flex; padding-bottom: 30px; }}",
+        ".video__container {height: 100%; width: 100%; display: flex; justify-content: center;}",
+        ".video__container .hero__media-container {position: relative;}",
+        ".video__container video {object-fit: contain; height: auto; width: 100%;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "title": "",
+        "title_size": 70,
+        "subheading": "",
+        "link_text": "",
+        "link": "",
+        "color_accent": "#ffffff",
+        "text_align": "vertical-center horizontal-center",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/732c4250ad484d2dbb8e0fbe777f6eab.mp4",
+        "overlay_opacity": 0,
+        "height": 750,
+        "height_mobile": 250
+      }
+    },
+    "slideshow-split": {
+      "type": "slideshow-split",
+      "blocks": {
+        "slideshow-split-1": {
+          "type": "slide",
+          "settings": {
+            "top_subheading": "",
+            "title": "M Le Monde",
+            "title_size": 40,
+            "subheading": "\"Repaire de conspirateurs\" par Laure Gasparotto.\n\nPhotographies \nMickael Vis.",
+            "link": "https:\/\/www.lemonde.fr\/le-monde-passe-a-table\/article\/2023\/06\/18\/en-champagne-la-conspiration-repaire-des-amoureux-de-spiritueux_6178200_6082232.html",
+            "link_text": "Lire l'article",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "image": "shopify:\/\/shop_images\/det020.jpg",
+            "indent_image": false,
+            "color_scheme": "none"
+          }
+        },
+        "4fb8d1e0-3370-4694-b2b4-fd4eafce37b3": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "top_subheading": "",
+            "title": "Side by Side Slide",
+            "title_size": 60,
+            "subheading": "Add optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "text_position": "left",
+            "indent_image": false,
+            "color_scheme": "none"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-split-1",
+        "4fb8d1e0-3370-4694-b2b4-fd4eafce37b3"
+      ],
+      "settings": {
+        "full_width": true,
+        "height": 600,
+        "height_mobile": 450,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "ab24d7e9-520f-4d9a-b824-311485941f54": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 16,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
+    "f6c79ce4-4342-4f64-8954-2363c3499771": {
+      "type": "newsletter",
+      "blocks": {
+        "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-0": {
+          "type": "title",
+          "settings": {
+            "title": "Suivez nos dernières expérimentations !",
+            "heading_size": "h3"
+          }
+        },
+        "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pour être les premiers informés de nos nouveautés, <br\/>nos actualités, nos offres exclusives, c'est par ici :<\/p>"
+          }
+        },
+        "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-2": {
+          "type": "form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-0",
+        "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-1",
+        "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-2"
+      ],
+      "custom_css": [
+        ".newsletter__input-group input {background-color: #f7f7f7 !important;}"
+      ],
+      "settings": {
+        "color_scheme": "1",
+        "align_text": "center",
+        "image_width": "33",
+        "image_mask": "none",
+        "image_position": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true
+      }
+    }
+  },
+  "order": [
+    "hero_video_djwUbh",
+    "slideshow",
+    "76f128a3-8a28-4402-966a-7fef69f853e8",
+    "featured-collections",
+    "5423bdd9-86d7-4dc3-8e0d-f0f42be89558",
+    "3ff7ede5-ba19-4392-adf2-8e4f33533ec9",
+    "slideshow-split",
+    "ab24d7e9-520f-4d9a-b824-311485941f54",
+    "f6c79ce4-4342-4f64-8954-2363c3499771"
+  ]
+}
