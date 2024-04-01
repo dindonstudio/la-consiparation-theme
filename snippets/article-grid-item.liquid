@@ -18,7 +18,7 @@
   endif
 -%}
 
-<div class="grid-item grid-article" data-style="{{ style }}">
+<div class="grid-item grid-article" data-style="{{ 'medium' }}">
   <div class="grid-article__image">
     {%- if article.empty? -%}
       <div class="image-wrap">
@@ -102,3 +102,8 @@
     {%- endif -%}
   </div>
 </div>
+<style>
+  .grid-article{
+    max-width: 800px;
+  }
+</style>
