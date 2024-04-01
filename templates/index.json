@@ -358,6 +358,13 @@
         "top_padding": true,
         "bottom_padding": true
       }
+    },
+    "video_custom_LyQPKH": {
+      "type": "video-custom",
+      "settings": {
+        "title": "Découvrez notre savoir-faire",
+        "video": "shopify:\/\/files\/videos\/LC_entretien_JL.mp4"
+      }
     }
   },
   "order": [
@@ -369,6 +376,7 @@
     "3ff7ede5-ba19-4392-adf2-8e4f33533ec9",
     "slideshow-split",
     "ab24d7e9-520f-4d9a-b824-311485941f54",
-    "f6c79ce4-4342-4f64-8954-2363c3499771"
+    "f6c79ce4-4342-4f64-8954-2363c3499771",
+    "video_custom_LyQPKH"
   ]
 }
