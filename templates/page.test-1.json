@@ -56,8 +56,8 @@
       "type": "hero-video",
       "custom_css": [
         ".videoCustom {margin: 40px auto;}",
-        "video{width:100%; height:auto;}",
-        "@media (max-width: 767px) {hero__media-container custom {display: flex; align-items:center; }}"
+        "video {width: 100%; height: auto;}",
+        "@media (max-width: 767px) {.hero__media-container.custom {display: flex; align-items: center; }}"
       ],
       "settings": {
         "full_width": false,
