@@ -234,8 +234,16 @@
         "lazyload_images": true
       }
     },
+    "video_custom_LyQPKH": {
+      "type": "video-custom",
+      "settings": {
+        "title": "Découvrez notre savoir-faire",
+        "video": "shopify:\/\/files\/videos\/LC_entretien_JL.mp4"
+      }
+    },
     "3ff7ede5-ba19-4392-adf2-8e4f33533ec9": {
       "type": "hero-video",
+      "disabled": true,
       "custom_css": [
         ".video-parent-section {margin-bottom: 100px;}",
         "@media (max-width: 680px) {.video-parent-section {margin-bottom: 0px; display: flex; align-items: center; } .hero__media-container.custom {display: flex; padding-bottom: 30px; }}",
@@ -358,13 +366,6 @@
         "top_padding": true,
         "bottom_padding": true
       }
-    },
-    "video_custom_LyQPKH": {
-      "type": "video-custom",
-      "settings": {
-        "title": "Découvrez notre savoir-faire",
-        "video": "shopify:\/\/files\/videos\/LC_entretien_JL.mp4"
-      }
     }
   },
   "order": [
@@ -373,10 +374,10 @@
     "76f128a3-8a28-4402-966a-7fef69f853e8",
     "featured-collections",
     "5423bdd9-86d7-4dc3-8e0d-f0f42be89558",
+    "video_custom_LyQPKH",
     "3ff7ede5-ba19-4392-adf2-8e4f33533ec9",
     "slideshow-split",
     "ab24d7e9-520f-4d9a-b824-311485941f54",
-    "f6c79ce4-4342-4f64-8954-2363c3499771",
-    "video_custom_LyQPKH"
+    "f6c79ce4-4342-4f64-8954-2363c3499771"
   ]
 }
