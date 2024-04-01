@@ -1,0 +1,64 @@
+<div class="home-page-hero cursor-pointer h-[110vh] w-full block relative z-0">
+  <div class="h-full w-full absolute top-0 left-0">
+    <video
+      src="{{ section.settings.video.sources[1].url  }}"
+      autoplay
+      poster="{{ section.settings.image  | image_url: width: 800 }}"
+      muted
+      playsinline
+      class="w-full h-full object-cover "
+      loop></video>
+  </div>
+
+  <div class="sticky top-0 z-10 md:py-[80px] py-[70px]  px-[10px] text-sableBlanc" class="button">
+    <div class="flex justify-center flex-col items-center text-center">
+      <h3 class="md:text-h3 text-m-h3  md:pb-5  pb-6 font-display ">
+        {{ section.settings.title }}</h3>
+      <a href="{{ section.settings.page.url }}" class="text-nav-title-med uppercase underline underline-offset-[6px]">{{ section.settings.button_text }}</a>
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Full Width Video",
+    "class": "section",
+    "tag": "section",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title"
+      },
+      {
+        "type": "page",
+        "id": "page",
+        "label": "Page"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "image (always insert an image even if you put a video)"
+      },
+      {
+        "type": "video",
+        "id": "video",
+        "label": "video (if a video is uploaded it will be shown instead of the image)"
+
+      },
+      {
+        "type": "text",
+        "id": "button_text",
+        "label": "Button Text 'Découvrir'"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Full Width Video Hero",
+        "category": "Custom"
+      }
+    ]
+
+  }
+{% endschema %}
