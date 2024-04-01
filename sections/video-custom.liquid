@@ -1,4 +1,8 @@
-<div class="">
+<div class="custom-title-video">
+  {{ section.settings.title  }}
+</div>
+
+<div class="video-custom page-width">
   <div class="">
     <video
       src="{{ section.settings.video.sources[1].url  }}"
@@ -12,7 +16,26 @@
 
 </div>
 
+<style>
+  .custom-title-video{
 
+    text-align: center;
+    padding-bottom: 3rem;
+    font-size: 38px;
+    text-decoration: underline;
+  }
+
+  .video-custom{
+    width: 100%;
+    padding-bottom: 8rem;
+    max-width: 1200px;
+    height: auto;
+  }
+  .video-custom video{
+    width: 100%;
+    height: auto;
+  }
+</style>
 {% schema %}
   {
     "name": "Full Width Video",
