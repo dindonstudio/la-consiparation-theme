@@ -4318,9 +4318,19 @@ product-recommendations[data-intent=complementary] .grid-item{
   border-radius:var(--roundness);
   overflow:hidden
 }
-
+.footer__block{
+  display: block !important;
+}
+#LangHeading-footer{
+  padding: 5px 0;
+}
 @media only screen and (min-width:769px){
-
+  .footer__block{
+    display:flex !important;
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+  
 .footer-promotion{
     padding:30px
 }
@@ -4339,9 +4349,44 @@ product-recommendations[data-intent=complementary] .grid-item{
   text-align:center;
   margin-bottom:17px
 }
-
+.locale-selectors__container{
+  display: none;
+}
+.footer__block--mobile{
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start !important;
+}
+#FooterMenus{
+  border: none;
+}
+.footer__menu{
+  margin-bottom: 15px !important;
+}
+.footer__mobile-section{
+  margin-top: 10px !important;
+}
+.multi-selectors__item{
+  margin: 0 !important;
+}
 @media only screen and (min-width:769px){
-
+  footer{
+    padding-top: 1rem;
+    border: none;
+  }
+  .footer__mobile-section{
+    margin-top: 0px !important;
+  }
+  .footer__menu{
+    margin-bottom: 15px;  }
+  .footer__title{
+    font-size: 15px !important;
+  }
+  .footer__menu{
+    font-size: 15px;
+  }
+ 
 .footer__grid-image{
     margin-bottom:20px
 }
@@ -4352,6 +4397,7 @@ product-recommendations[data-intent=complementary] .grid-item{
   }
 
 .site-footer{
+  margin-top:4rem;
   font-size:calc(var(--typeBaseSize) - 1px);
   background-color:#000000;
   background-color:var(--colorFooter);
@@ -4499,9 +4545,12 @@ product-recommendations[data-intent=complementary] .grid-item{
 .footer__block{
   flex:0 1 25%;
   max-width:210px;
+  display: flex;
+  justify-content: center;
 }
 
 @media only screen and (max-width:768px){
+
   .footer__blocks--mobile{
     display:flex;
     flex-wrap:wrap;
