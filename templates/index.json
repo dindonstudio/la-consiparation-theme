@@ -238,7 +238,8 @@
       "type": "video-custom",
       "settings": {
         "title": "Découvrez notre savoir-faire",
-        "video": "shopify:\/\/files\/videos\/LC_entretien_JL.mp4"
+        "video": "shopify:\/\/files\/videos\/LC_entretien_JL.mp4",
+        "poster": "shopify:\/\/shop_images\/Capture_d_ecran_2024-04-03_a_09.53.20.png"
       }
     },
     "3ff7ede5-ba19-4392-adf2-8e4f33533ec9": {
@@ -321,7 +322,7 @@
     "ab24d7e9-520f-4d9a-b824-311485941f54": {
       "type": "instafeed",
       "custom_css": [
-        "#insta-feed{margin-top:80px;}"
+        "#insta-feed {margin-top: 80px;}"
       ],
       "settings": {
         "heading_size": 16,
