@@ -56,7 +56,7 @@
         </div>
 
         {%- liquid
-          assign productGridView = grid_style
+          assign productGridView = 'medium'
           if cart.attributes.product_view != blank
             assign productGridView = cart.attributes.product_view
           endif
