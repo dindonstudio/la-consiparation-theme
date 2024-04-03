@@ -6,7 +6,7 @@
   <div class="">
     <video
       src="{{ section.settings.video.sources[1].url  }}"
-      
+      poster="{{ section.settings.poster | img_url: '800x800' }}"
       controls
       
       class="w-full h-full object-cover "
