@@ -1,1 +1,137 @@
-{"sections":{"main":{"type":"main-product","blocks":{"variant_picker":{"type":"variant_picker","settings":{"variant_labels":true,"picker_type":"button","product_dynamic_variants_enable":true,"color_swatches":false}},"price":{"type":"price","settings":{}},"buy_buttons":{"type":"buy_buttons","settings":{"show_dynamic_checkout":false,"surface_pickup_enable":true}},"88747d0a-14f6-408c-820b-007731c01514":{"type":"description","settings":{"is_tab":false}}},"block_order":["variant_picker","price","buy_buttons","88747d0a-14f6-408c-820b-007731c01514"],"settings":{"sku_enable":false,"image_position":"left","image_container_size":"medium","product_image_size":"square","product_zoom_enable":true,"thumbnail_position":"below","thumbnail_height":"fixed","thumbnail_arrows":false,"mobile_layout":"partial","enable_video_looping":true,"product_video_style":"muted"}},"sub":{"type":"product-full-width","blocks":{"description":{"type":"description","disabled":true,"settings":{"is_tab":true}},"tab":{"type":"tab","settings":{"title":"Livraison","content":"<p>Les frais d’expédition dépendent du poids des articles commandés et sont calculés et affichés avant le règlement de votre commande.<\/p><p>Pour le moment, nous expédions uniquement en France métropolitaine par Colissimo à domicile avec signature. Les commandes sont expédiées 2 fois par semaine, les mardi et vendredi.<\/p>","page":""}},"contact":{"type":"contact","disabled":true,"settings":{"title":"Ask a question","phone":false}}},"block_order":["description","tab","contact"],"settings":{"max_width":true}},"recommendations":{"type":"product-recommendations","settings":{"product_recommendations_heading":"Découvrez nos autres gins de terroir","related_count":4,"products_per_row":4}},"more-products-vendor":{"type":"more-products-vendor","disabled":true,"custom_css":[],"settings":{"products_per_row":4}},"more-products-collection":{"type":"more-products-collection","disabled":true,"settings":{"products_per_row":3}},"recently-viewed":{"type":"recently-viewed","disabled":true,"settings":{}},"collection-return":{"type":"collection-return","settings":{"color_scheme":"2"}}},"order":["main","sub","recommendations","more-products-vendor","more-products-collection","recently-viewed","collection-return"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "product_dynamic_variants_enable": true,
+            "color_swatches": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "surface_pickup_enable": true
+          }
+        },
+        "88747d0a-14f6-408c-820b-007731c01514": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "price",
+        "buy_buttons",
+        "88747d0a-14f6-408c-820b-007731c01514"
+      ],
+      "settings": {
+        "sku_enable": false,
+        "image_position": "left",
+        "image_container_size": "medium",
+        "product_image_size": "square",
+        "product_zoom_enable": true,
+        "thumbnail_position": "below",
+        "thumbnail_height": "fixed",
+        "thumbnail_arrows": false,
+        "mobile_layout": "partial",
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "is_tab": true
+          }
+        },
+        "tab": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison",
+            "content": "<p>Les frais d’expédition dépendent du poids des articles commandés et sont calculés et affichés avant le règlement de votre commande.<\/p><p>Pour le moment, nous expédions uniquement en France métropolitaine par Colissimo à domicile avec signature. Les commandes sont expédiées 2 fois par semaine, les mardi et vendredi.<\/p>",
+            "page": ""
+          }
+        },
+        "contact": {
+          "type": "contact",
+          "disabled": true,
+          "settings": {
+            "title": "Ask a question",
+            "phone": false
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "tab",
+        "contact"
+      ],
+      "settings": {
+        "max_width": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "product_recommendations_heading": "Découvrez nos autres gins de terroir",
+        "related_count": 4,
+        "products_per_row": 3
+      }
+    },
+    "more-products-vendor": {
+      "type": "more-products-vendor",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "products_per_row": 4
+      }
+    },
+    "more-products-collection": {
+      "type": "more-products-collection",
+      "disabled": true,
+      "settings": {
+        "products_per_row": 3
+      }
+    },
+    "recently-viewed": {
+      "type": "recently-viewed",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+        "color_scheme": "2"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "sub",
+    "recommendations",
+    "more-products-vendor",
+    "more-products-collection",
+    "recently-viewed",
+    "collection-return"
+  ]
+}
