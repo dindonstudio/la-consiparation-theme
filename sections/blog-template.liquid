@@ -15,7 +15,7 @@
   </header>
 
   <div class="new-grid">
-    {%- for article in blog.articles -%}
+    {%- for article in blog.articles reversed -%}
       {%- liquid
         assign style = 'medium'
         if forloop.first

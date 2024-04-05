@@ -49,7 +49,7 @@
         </div>
       {%- endif -%}
       {%- if related_collection.products_count > 0 -%}
-        <div class="product-recommendations page-width">
+        <div class="product-recommendations page-width ">
           <div class="new-grid product-grid scrollable-grid--small" data-view="{{ gridView }}">
             {%- for product in related_collection.products -%}
               {%- render 'product-grid-item', product: product, sizeVariable: section.settings.products_per_row, fallback: '45vw' -%}
@@ -107,3 +107,8 @@
   }
 }
 {% endschema %}
+<style>
+  .product-recommendations .grid-product__price--current{
+    font-size: 16px;
+  }
+</style>
