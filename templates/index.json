@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero_video_djwUbh": {
@@ -8,10 +17,10 @@
         "title_size": 70,
         "subheading": "",
         "link_text": "DÉCOUVREZ NOS SPIRITUEUX",
-        "link": "shopify:\/\/collections\/all",
+        "link": "shopify://collections/all",
         "color_accent": "#e9e9e9",
         "text_align": "vertical-bottom horizontal-center",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/301b7b7c0e15445d80e59e8fafbcec9a.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/301b7b7c0e15445d80e59e8fafbcec9a.mp4",
         "overlay_opacity": 0,
         "height": 750,
         "height_mobile": 500
@@ -24,17 +33,17 @@
           "type": "hero",
           "settings": {
             "top_subheading": "",
-            "title": "<p>Notre histoire<\/p>",
+            "title": "<p>Notre histoire</p>",
             "title_size": 50,
             "subheading": "",
-            "link": "shopify:\/\/pages\/notre-histoire",
+            "link": "shopify://pages/notre-histoire",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#1e2f5d",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg",
+            "image": "shopify://shop_images/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg",
+            "image_mobile": "shopify://shop_images/P0028864_0ad37772-b6a5-4b42-80f6-767f5567d786.jpg",
             "overlay_opacity": 0
           }
         },
@@ -42,17 +51,17 @@
           "type": "hero",
           "settings": {
             "top_subheading": "",
-            "title": "<p>Nos spiritueux<\/p>",
+            "title": "<p>Nos spiritueux</p>",
             "title_size": 50,
             "subheading": "",
-            "link": "shopify:\/\/pages\/nos-produits",
+            "link": "shopify://pages/nos-produits",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#530606",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg",
+            "image": "shopify://shop_images/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg",
+            "image_mobile": "shopify://shop_images/DSCF5180_c144dc1f-50e3-4281-b895-b26771c90f21.jpg",
             "overlay_opacity": 0
           }
         },
@@ -60,17 +69,35 @@
           "type": "hero",
           "settings": {
             "top_subheading": "",
-            "title": "<p>Nous contacter<\/p>",
+            "title": "<p>Nous contacter</p>",
             "title_size": 50,
             "subheading": "",
-            "link": "shopify:\/\/pages\/contact",
+            "link": "shopify://pages/contact",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#15ed10",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg",
-            "image_mobile": "shopify:\/\/shop_images\/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg",
+            "image": "shopify://shop_images/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg",
+            "image_mobile": "shopify://shop_images/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg",
+            "overlay_opacity": 0
+          }
+        },
+        "hero_GgADrg": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "retrouvez nos offres sur l'eshop",
+            "title": "<p>Overlaid Hero Slide</p>",
+            "title_size": 70,
+            "subheading": "And optional subtext",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/FE.jpg",
+            "image_mobile": "shopify://shop_images/FE.jpg",
             "overlay_opacity": 0
           }
         }
@@ -78,7 +105,8 @@
       "block_order": [
         "slideshow-0",
         "slideshow-1",
-        "136bc641-82d0-4a6b-8018-7c32ce92c786"
+        "136bc641-82d0-4a6b-8018-7c32ce92c786",
+        "hero_GgADrg"
       ],
       "disabled": true,
       "custom_css": [
@@ -104,7 +132,7 @@
             "image_mask": "none",
             "image_width": 60,
             "title": "Expérimental",
-            "text": "<p>Une approche vigneronne inédite dans la manière d’aborder et d’assembler nos spiritueux, au plus près du fruit, des plantes et des épices.<\/p>",
+            "text": "<p>Une approche vigneronne inédite dans la manière d’aborder et d’assembler nos spiritueux, au plus près du fruit, des plantes et des épices.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -116,7 +144,7 @@
             "image_mask": "none",
             "image_width": 120,
             "title": "Artisanal",
-            "text": "<p>Des outils simples, des gestes de toujours, des ingrédients bio soigneusement sélectionnés, pour des productions en série limitée.<\/p>",
+            "text": "<p>Des outils simples, des gestes de toujours, des ingrédients bio soigneusement sélectionnés, pour des productions en série limitée.</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -128,7 +156,7 @@
             "image_mask": "none",
             "image_width": 120,
             "title": "Local",
-            "text": "<p>Une distillerie au cœur des vignes de champagne, pour se nourrir des meilleurs raisins, aignes et rebèches. <\/p>",
+            "text": "<p>Une distillerie au cœur des vignes de champagne, pour se nourrir des meilleurs raisins, aignes et rebèches. </p>",
             "button_label": "",
             "button_link": ""
           }
@@ -213,16 +241,16 @@
       "type": "text-and-image",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/couvCMD.jpg",
+        "image": "shopify://shop_images/couvCMD.jpg",
         "image_mask": "none",
-        "image2": "shopify:\/\/shop_images\/det020.jpg",
+        "image2": "shopify://shop_images/det020.jpg",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Rencontre avec M Le Monde",
         "heading_size": "h2",
-        "text": "<p>Entretien avec Laure Gasparotto en terroir champenois.<\/p>",
+        "text": "<p>Entretien avec Laure Gasparotto en terroir champenois.</p>",
         "button_label": "Lire l'article",
-        "button_link": "https:\/\/www.lemonde.fr\/le-monde-passe-a-table\/article\/2023\/06\/18\/en-champagne-la-conspiration-repaire-des-amoureux-de-spiritueux_6178200_6082232.html",
+        "button_link": "https://www.lemonde.fr/le-monde-passe-a-table/article/2023/06/18/en-champagne-la-conspiration-repaire-des-amoureux-de-spiritueux_6178200_6082232.html",
         "button_style": "primary",
         "align_text": "left",
         "image_width": "66",
@@ -238,8 +266,8 @@
       "type": "video-custom",
       "settings": {
         "title": "Entretien avec notre maitre de chai",
-        "video": "shopify:\/\/files\/videos\/LC_entretien_JL.mp4",
-        "poster": "shopify:\/\/shop_images\/Capture_d_ecran_2024-04-03_a_09.53.20.png"
+        "video": "shopify://files/videos/LC_entretien_JL.mp4",
+        "poster": "shopify://shop_images/Capture_d_ecran_2024-04-03_a_09.53.20.png"
       }
     },
     "3ff7ede5-ba19-4392-adf2-8e4f33533ec9": {
@@ -261,7 +289,7 @@
         "link": "",
         "color_accent": "#ffffff",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/732c4250ad484d2dbb8e0fbe777f6eab.mp4",
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/732c4250ad484d2dbb8e0fbe777f6eab.mp4",
         "overlay_opacity": 0,
         "height": 750,
         "height_mobile": 250
@@ -277,12 +305,12 @@
             "title": "M Le Monde",
             "title_size": 40,
             "subheading": "\"Repaire de conspirateurs\" par Laure Gasparotto.\n\nPhotographies \nMickael Vis.",
-            "link": "shopify:\/\/blogs\/presse\/m-le-monde",
+            "link": "shopify://blogs/presse/m-le-monde",
             "link_text": "Lire l'article",
-            "link_2": "shopify:\/\/blogs\/presse",
+            "link_2": "shopify://blogs/presse",
             "link_text_2": "Voir tout les articles",
             "text_position": "left",
-            "image": "shopify:\/\/shop_images\/det020.jpg",
+            "image": "shopify://shop_images/det020.jpg",
             "indent_image": false,
             "color_scheme": "none"
           }
@@ -343,13 +371,12 @@
         "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pour être les premiers informés de nos nouveautés, <br\/>nos actualités, nos offres exclusives, c'est par ici :<\/p>"
+            "text": "<p>Pour être les premiers informés de nos nouveautés, <br/>nos actualités, nos offres exclusives, c'est par ici :</p>"
           }
         },
         "template--17736627749132__f6c79ce4-4342-4f64-8954-2363c3499771-16773205975eec4210-2": {
           "type": "form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
