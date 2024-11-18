@@ -11,6 +11,7 @@
   "sections": {
     "hero_video_djwUbh": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "L'esprit de La Conspiration",
@@ -111,7 +112,6 @@
         "slideshow-1",
         "136bc641-82d0-4a6b-8018-7c32ce92c786"
       ],
-      "disabled": true,
       "custom_css": [
         ".hero__link .btn {font-size: 15px;}"
       ],
