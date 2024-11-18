@@ -11,6 +11,7 @@
   "sections": {
     "hero_video_djwUbh": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "L'esprit de La Conspiration",
@@ -29,8 +30,27 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "hero_GgADrg": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify://shop_images/FE.jpg",
+            "image_mobile": "shopify://shop_images/FE.jpg",
+            "overlay_opacity": 0
+          }
+        },
         "slideshow-0": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "<p>Notre histoire</p>",
@@ -49,6 +69,7 @@
         },
         "slideshow-1": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "<p>Nos spiritueux</p>",
@@ -67,6 +88,7 @@
         },
         "136bc641-82d0-4a6b-8018-7c32ce92c786": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "<p>Nous contacter</p>",
@@ -82,33 +104,14 @@
             "image_mobile": "shopify://shop_images/DSCF5309_c9b2427a-bffc-4bcc-a1c1-52b0893bdee9.jpg",
             "overlay_opacity": 0
           }
-        },
-        "hero_GgADrg": {
-          "type": "hero",
-          "settings": {
-            "top_subheading": "retrouvez nos offres sur l'eshop",
-            "title": "<p>Overlaid Hero Slide</p>",
-            "title_size": 70,
-            "subheading": "And optional subtext",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#fff",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify://shop_images/FE.jpg",
-            "image_mobile": "shopify://shop_images/FE.jpg",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
+        "hero_GgADrg",
         "slideshow-0",
         "slideshow-1",
-        "136bc641-82d0-4a6b-8018-7c32ce92c786",
-        "hero_GgADrg"
+        "136bc641-82d0-4a6b-8018-7c32ce92c786"
       ],
-      "disabled": true,
       "custom_css": [
         ".hero__link .btn {font-size: 15px;}"
       ],
