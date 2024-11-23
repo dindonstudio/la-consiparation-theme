@@ -11,6 +11,7 @@
   "sections": {
     "hero_video_djwUbh": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "L'esprit de La Conspiration",
@@ -36,11 +37,11 @@
             "title": "",
             "title_size": 70,
             "subheading": "",
-            "link": "",
+            "link": "shopify://collections",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#fff",
+            "color_accent": "#ffffff",
             "text_align": "vertical-bottom horizontal-center",
             "image": "shopify://shop_images/FE.jpg",
             "image_mobile": "shopify://shop_images/FE.jpg",
@@ -111,7 +112,6 @@
         "slideshow-1",
         "136bc641-82d0-4a6b-8018-7c32ce92c786"
       ],
-      "disabled": true,
       "custom_css": [
         ".hero__link .btn {font-size: 15px;}"
       ],
