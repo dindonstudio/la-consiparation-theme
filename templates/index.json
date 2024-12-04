@@ -11,7 +11,6 @@
   "sections": {
     "hero_video_djwUbh": {
       "type": "hero-video",
-      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "L'esprit de La Conspiration",
@@ -32,6 +31,7 @@
       "blocks": {
         "hero_GgADrg": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
