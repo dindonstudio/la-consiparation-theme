@@ -11,6 +11,7 @@
   "sections": {
     "hero_video_djwUbh": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "L'esprit de La Conspiration",
@@ -29,6 +30,24 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
+        "hero_pXPfFN": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/N2024.jpg",
+            "image_mobile": "shopify://shop_images/N2024.jpg",
+            "overlay_opacity": 0
+          }
+        },
         "hero_GgADrg": {
           "type": "hero",
           "disabled": true,
@@ -107,6 +126,7 @@
         }
       },
       "block_order": [
+        "hero_pXPfFN",
         "hero_GgADrg",
         "slideshow-0",
         "slideshow-1",
