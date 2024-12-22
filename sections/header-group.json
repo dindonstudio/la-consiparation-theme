@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "t:sections.header-group.name",
@@ -8,18 +17,15 @@
         "toolbar-0": {
           "type": "announcement",
           "settings": {
-            "richtext": "<p>10% SUR LA 1ÈRE COMMANDE AVEC LE CODE: JECONSPIRE<\/p>",
-            "richtext_mobile": "<p>10% SUR LA 1ÈRE COMMANDE AVEC LE CODE: JECONSPIRE<\/p>"
+            "richtext": "<p>10% SUR LA 1ÈRE COMMANDE AVEC LE CODE: JECONSPIRE</p>",
+            "richtext_mobile": "<p>LE RETRAIT À PARIS EST SUSPENDU JUSQU’AU 5 JANVIER. LES ENVOIS COLISSIMO CONTINUENT PENDANT LES FÊTES.</p>"
           }
         }
       },
       "block_order": [
         "toolbar-0"
       ],
-      "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "announcement_center": true,
         "toolbar_social": false,
@@ -34,7 +40,7 @@
         "eaaf2c97-817a-4e80-9af8-32c9e465b6d7": {
           "type": "logo",
           "settings": {
-            "logo": "shopify:\/\/shop_images\/logo_Site10_dc2827d0-7eb6-4f8a-8c4a-8d4e9ec3610a.jpg",
+            "logo": "shopify://shop_images/logo_Site10_dc2827d0-7eb6-4f8a-8c4a-8d4e9ec3610a.jpg",
             "desktop_logo_width": 100,
             "mobile_logo_width": 100
           }
