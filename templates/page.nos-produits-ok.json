@@ -66,6 +66,29 @@
         "lazyload_images": true
       }
     },
+    "text_and_image_3fbatG": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/LC_FineCh_CarreOK.jpg",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Rébellion",
+        "heading_size": "h2",
+        "text": "<p>Premier spiritueux La Conspiration à sortir de nos fûts, cette <span style=\"text-decoration:underline\">Fine champenoise</span> est élaborée à partir de vin de champagne blanc de noir (50% meunier, 50% pinot noir) issu d’une même parcelle à Saulchéry.<br/>Après distillation, cette fine atypique a fait l'objet d'un vieillissement sous bois de deux ans. Vineuse et généreuse, elle développe des notes caramel suaves et un boisé subtil.<br/>Distillée en 2022, elle est destinée aux amateurs et collectionneurs d’alcool exigeants. 216 bouteilles ont été tirées, pour un TAV de 44,2%.</p><p>3 morceaux pour illustrer les différentes facettes de Rébellion :</p><p><span style=\"text-decoration:underline\"><em>Oops!... I did it again</em></span> / Britney Spears<br/>Oops!… I did it again(2000)</p><p><span style=\"text-decoration:underline\"><em>Gin and Juice</em></span> / Snoop Dogg<br/>Doggystyle (1993)</p><p><span style=\"text-decoration:underline\"><em>I heard it through the Grapevines</em></span><em> </em>/ The Slits<br/>Cut (1979)</p><p></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "color_scheme": "1",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
     "text_and_image_K7q3xT": {
       "type": "text-and-image",
       "settings": {
@@ -204,40 +227,17 @@
         "bottom_padding": false,
         "lazyload_images": true
       }
-    },
-    "text_and_image_3fbatG": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify://shop_images/LC_FineCh_CarreOK.jpg",
-        "image_mask": "none",
-        "image2_mask": "none",
-        "subtitle": "",
-        "title": "Rébellion",
-        "heading_size": "h2",
-        "text": "<p>Premier spiritueux La Conspiration à sortir de nos fûts, cette <span style=\"text-decoration:underline\">Fine champenoise</span> est élaborée à partir de vin de champagne blanc de noir (50% meunier, 50% pinot noir) issu d’une même parcelle à Saulchéry.<br/>Après distillation, cette fine atypique a fait l'objet d'un vieillissement sous bois de deux ans. Vineuse et généreuse, elle développe des notes caramel suaves et un boisé subtil.<br/>Distillée en 2022, elle est destinée aux amateurs et collectionneurs d’alcool exigeants. 216 bouteilles ont été tirées, pour un TAV de 44,2%.</p><p>3 morceaux pour illustrer les différentes facettes de Rébellion :</p><p><span style=\"text-decoration:underline\"><em>Oops!... I did it again</em></span> / Britney Spears<br/>Oops!… I did it again(2000)</p><p><span style=\"text-decoration:underline\"><em>Gin and Juice</em></span> / Snoop Dogg<br/>Doggystyle (1993)</p><p><span style=\"text-decoration:underline\"><em>I heard it through the Grapevines</em></span><em> </em>/ The Slits<br/>Cut (1979)</p><p></p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "image_width": "50",
-        "layout": "left",
-        "color_scheme": "1",
-        "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
-        "lazyload_images": true
-      }
     }
   },
   "order": [
     "main",
     "ecacb834-791d-4250-bdd9-511eed5bb149",
+    "text_and_image_3fbatG",
     "text_and_image_K7q3xT",
     "text_and_image_Xa9AK4",
     "f0238f1e-2205-4bf5-9eb9-ca75befad859",
     "b2cae0ec-016c-4eba-b033-ec3b902c0dec",
     "da8b03b8-50f9-42e1-873f-7b92d12c4923",
-    "516bd23f-9faa-43e9-ac94-f98e66f0356a",
-    "text_and_image_3fbatG"
+    "516bd23f-9faa-43e9-ac94-f98e66f0356a"
   ]
 }
