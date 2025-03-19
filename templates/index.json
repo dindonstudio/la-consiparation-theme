@@ -41,7 +41,7 @@
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#fff",
+            "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/Rebellion_Hero.jpg",
             "image_mobile": "shopify://shop_images/Rebellion_Hero.jpg",
@@ -59,7 +59,7 @@
             "link_text": "Optional button",
             "link_2": "",
             "link_text_2": "",
-            "color_accent": "#fff",
+            "color_accent": "#ffffff",
             "text_align": "vertical-bottom horizontal-left",
             "overlay_opacity": 0
           }
@@ -278,7 +278,7 @@
         "featured-collections-2": {
           "type": "collection",
           "settings": {
-            "collection": "notre-fine-champenoise",
+            "collection": "rebellion-fine-champenoise",
             "title": "Fine champenoise"
           }
         },
