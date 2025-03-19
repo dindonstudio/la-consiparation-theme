@@ -254,6 +254,13 @@
     "featured-collections": {
       "type": "featured-collections",
       "blocks": {
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "rebellion-fine-champenoise",
+            "title": "Fine champenoise"
+          }
+        },
         "featured-collections-3": {
           "type": "collection",
           "settings": {
@@ -275,13 +282,6 @@
             "title": "Alcool de malts"
           }
         },
-        "featured-collections-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "rebellion-fine-champenoise",
-            "title": "Fine champenoise"
-          }
-        },
         "featured-collections-4": {
           "type": "collection",
           "disabled": true,
@@ -300,10 +300,10 @@
         }
       },
       "block_order": [
+        "featured-collections-2",
         "featured-collections-3",
         "featured-collections-0",
         "featured-collections-1",
-        "featured-collections-2",
         "featured-collections-4",
         "featured-collections-5"
       ],
