@@ -26,6 +26,58 @@
         "height_mobile": 500
       }
     },
+    "slideshow_QxigTn": {
+      "type": "slideshow",
+      "blocks": {
+        "hero_tcYC4r": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Overlaid Hero Slide</p>",
+            "title_size": 70,
+            "subheading": "Perfect for rich lifestyle photography.",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-left",
+            "overlay_opacity": 0
+          }
+        },
+        "hero_qPRqEe": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "",
+            "link": "shopify://products/rebellion-fine-champenoise-50cl",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Rebellion_Hero.jpg",
+            "image_mobile": "shopify://shop_images/Rebellion_Hero.jpg",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "hero_tcYC4r",
+        "hero_qPRqEe"
+      ],
+      "settings": {
+        "full_width": true,
+        "desktop_size": 0,
+        "mobile_size": 0,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -425,6 +477,7 @@
   },
   "order": [
     "hero_video_djwUbh",
+    "slideshow_QxigTn",
     "slideshow",
     "76f128a3-8a28-4402-966a-7fef69f853e8",
     "featured-collections",
