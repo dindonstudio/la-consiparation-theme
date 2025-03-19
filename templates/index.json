@@ -11,6 +11,7 @@
   "sections": {
     "hero_video_djwUbh": {
       "type": "hero-video",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "L'esprit de La Conspiration",
@@ -29,22 +30,6 @@
     "slideshow_QxigTn": {
       "type": "slideshow",
       "blocks": {
-        "hero_tcYC4r": {
-          "type": "hero",
-          "settings": {
-            "top_subheading": "",
-            "title": "<p>Overlaid Hero Slide</p>",
-            "title_size": 70,
-            "subheading": "Perfect for rich lifestyle photography.",
-            "link": "",
-            "link_text": "Optional button",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "#fff",
-            "text_align": "vertical-bottom horizontal-left",
-            "overlay_opacity": 0
-          }
-        },
         "hero_qPRqEe": {
           "type": "hero",
           "settings": {
@@ -62,11 +47,27 @@
             "image_mobile": "shopify://shop_images/Rebellion_Hero.jpg",
             "overlay_opacity": 0
           }
+        },
+        "hero_tcYC4r": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "<p>Overlaid Hero Slide</p>",
+            "title_size": 70,
+            "subheading": "Perfect for rich lifestyle photography.",
+            "link": "",
+            "link_text": "Optional button",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#fff",
+            "text_align": "vertical-bottom horizontal-left",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "hero_tcYC4r",
-        "hero_qPRqEe"
+        "hero_qPRqEe",
+        "hero_tcYC4r"
       ],
       "settings": {
         "full_width": true,
