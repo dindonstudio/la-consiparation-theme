@@ -69,8 +69,8 @@
     "text_and_image_3fbatG": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify://shop_images/LC_FineCh_CarreOK.jpg",
-        "image_mask": "none",
+        "image": "shopify://shop_images/LC_FineCh_Rect.jpg",
+        "image_mask": "portrait",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Rébellion",
