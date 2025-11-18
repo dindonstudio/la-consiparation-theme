@@ -71,7 +71,8 @@
       "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image_mask": "none",
+        "image": "shopify://shop_images/2.jpg",
+        "image_mask": "portrait",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Whisky",
