@@ -108,8 +108,8 @@
         "layout": "left",
         "color_scheme": "1",
         "divider": false,
-        "top_padding": true,
-        "bottom_padding": true,
+        "top_padding": false,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
