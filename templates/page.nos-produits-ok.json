@@ -68,7 +68,6 @@
     },
     "text_and_image_7RnBV3": {
       "type": "text-and-image",
-      "disabled": true,
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
         "image": "shopify://shop_images/2.jpg",
