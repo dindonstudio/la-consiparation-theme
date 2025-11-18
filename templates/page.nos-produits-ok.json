@@ -156,7 +156,7 @@
         "color_scheme": "1",
         "divider": false,
         "top_padding": false,
-        "bottom_padding": true,
+        "bottom_padding": false,
         "lazyload_images": true
       }
     },
