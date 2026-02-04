@@ -37,14 +37,14 @@
             "title": "",
             "title_size": 70,
             "subheading": "",
-            "link": "shopify://products/whisky-70cl",
+            "link": "shopify://products/gin-de-terroir-chardonnay",
             "link_text": "",
             "link_2": "",
             "link_text_2": "",
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-center",
             "image": "shopify://shop_images/fond_site22.jpg",
-            "image_mobile": "shopify://shop_images/fond_site2.jpg",
+            "image_mobile": "shopify://shop_images/fond_site22.jpg",
             "overlay_opacity": 0
           }
         },
