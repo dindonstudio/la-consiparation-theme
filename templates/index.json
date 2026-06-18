@@ -32,6 +32,7 @@
       "blocks": {
         "hero_qPRqEe": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
@@ -62,7 +63,7 @@
             "color_accent": "#ffffff",
             "text_align": "vertical-center horizontal-left",
             "image": "shopify://shop_images/2_Ed_Lim_2026_0cc8c7b7-5220-48c1-b263-37ef8e1d7aa2.heic",
-            "image_mobile": "shopify://shop_images/fond_site23_copie.jpg",
+            "image_mobile": "shopify://shop_images/2_Ed_Lim_2026_0cc8c7b7-5220-48c1-b263-37ef8e1d7aa2.heic",
             "overlay_opacity": 0
           }
         },
