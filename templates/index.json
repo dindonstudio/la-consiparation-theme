@@ -48,6 +48,24 @@
             "overlay_opacity": 0
           }
         },
+        "hero_YBctmM": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "Summer is coming !",
+            "link": "shopify://products/edition-limitee-gin-de-terroir-chardonnay",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/Ed_Lim_2026.heic",
+            "image_mobile": "shopify://shop_images/fond_site23_copie.jpg",
+            "overlay_opacity": 0
+          }
+        },
         "hero_tcYC4r": {
           "type": "hero",
           "disabled": true,
@@ -68,6 +86,7 @@
       },
       "block_order": [
         "hero_qPRqEe",
+        "hero_YBctmM",
         "hero_tcYC4r"
       ],
       "settings": {
