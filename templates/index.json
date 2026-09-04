@@ -30,6 +30,23 @@
     "slideshow_QxigTn": {
       "type": "slideshow",
       "blocks": {
+        "hero_japEjD": {
+          "type": "hero",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 70,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify://shop_images/WLP_2026.jpg",
+            "overlay_opacity": 0
+          }
+        },
         "hero_qPRqEe": {
           "type": "hero",
           "disabled": true,
@@ -51,6 +68,7 @@
         },
         "hero_YBctmM": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
@@ -86,6 +104,7 @@
         }
       },
       "block_order": [
+        "hero_japEjD",
         "hero_qPRqEe",
         "hero_YBctmM",
         "hero_tcYC4r"
