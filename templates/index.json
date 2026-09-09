@@ -50,6 +50,7 @@
         },
         "hero_qPRqEe": {
           "type": "hero",
+          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
