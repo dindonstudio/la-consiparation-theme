@@ -78,7 +78,7 @@
         "style": "dots",
         "autoplay": true,
         "autoplay_speed": 7,
-        "lazyload_images": true
+        "lazyload_images": false
       }
     },
     "slideshow_QxigTn": {
