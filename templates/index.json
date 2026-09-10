@@ -51,13 +51,6 @@
             "image": "shopify://shop_images/fond_sitePO3.jpg"
           }
         },
-        "image_7gtA6B": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "image": "shopify://shop_images/fond_sitePO3.jpg"
-          }
-        },
         "image_wCH7r7": {
           "type": "image",
           "settings": {
@@ -69,9 +62,9 @@
         "image_pag6Xh",
         "image_4gtgqJ",
         "image_mJe7kr",
-        "image_7gtA6B",
         "image_wCH7r7"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow-image.presets.image_optional_slides.name",
       "settings": {
         "full_width": true,
