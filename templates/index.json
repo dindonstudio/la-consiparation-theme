@@ -75,7 +75,7 @@
       "name": "t:sections.slideshow-image.presets.image_optional_slides.name",
       "settings": {
         "full_width": true,
-        "style": "dots",
+        "style": "arrows",
         "autoplay": true,
         "autoplay_speed": 7,
         "lazyload_images": false
