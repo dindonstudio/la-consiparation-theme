@@ -30,6 +30,14 @@
     "slideshow_image_TJCVaC": {
       "type": "slideshow-image",
       "blocks": {
+        "image_cnQXca": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/WLP2.jpg",
+            "image_mobile": "shopify://shop_images/WLP2.jpg"
+          }
+        },
         "image_pag6Xh": {
           "type": "image",
           "settings": {
@@ -59,6 +67,7 @@
         }
       },
       "block_order": [
+        "image_cnQXca",
         "image_pag6Xh",
         "image_4gtgqJ",
         "image_mJe7kr",
