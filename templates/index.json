@@ -30,6 +30,14 @@
     "slideshow_image_TJCVaC": {
       "type": "slideshow-image",
       "blocks": {
+        "image_QchLQD": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify://shop_images/fond_site_3_PO_et_WL.jpg",
+            "image_mobile": "shopify://shop_images/fond_site_3_PO_et_WL.jpg"
+          }
+        },
         "image_cnQXca": {
           "type": "image",
           "settings": {
@@ -61,6 +69,7 @@
         }
       },
       "block_order": [
+        "image_QchLQD",
         "image_cnQXca",
         "image_pag6Xh",
         "image_4gtgqJ",
