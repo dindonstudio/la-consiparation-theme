@@ -64,7 +64,6 @@
         "image_mJe7kr",
         "image_wCH7r7"
       ],
-      "disabled": true,
       "name": "t:sections.slideshow-image.presets.image_optional_slides.name",
       "settings": {
         "full_width": true,
@@ -139,6 +138,7 @@
         "hero_qPRqEe",
         "hero_YBctmM"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "desktop_size": 0,
