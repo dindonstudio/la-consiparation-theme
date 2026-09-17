@@ -59,7 +59,7 @@
             "image": "shopify://shop_images/fond_sitePO3.jpg"
           }
         },
-        "image_wCH7r7": {
+        "image_CwQHgh": {
           "type": "image",
           "settings": {
             "link": ""
@@ -71,12 +71,12 @@
         "image_pag6Xh",
         "image_4gtgqJ",
         "image_mJe7kr",
-        "image_wCH7r7"
+        "image_CwQHgh"
       ],
       "name": "t:sections.slideshow-image.presets.image_optional_slides.name",
       "settings": {
-        "full_width": true,
-        "style": "arrows",
+        "full_width": false,
+        "style": "dots",
         "autoplay": true,
         "autoplay_speed": 7,
         "lazyload_images": false
