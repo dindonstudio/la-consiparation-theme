@@ -11,7 +11,6 @@
   "sections": {
     "hero_video_djwUbh": {
       "type": "hero-video",
-      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "L'esprit de La Conspiration",
@@ -25,45 +24,6 @@
         "overlay_opacity": 0,
         "height": 750,
         "height_mobile": 500
-      }
-    },
-    "slideshow_image_TJCVaC": {
-      "type": "slideshow-image",
-      "blocks": {
-        "image_pag6Xh": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "image": "shopify://shop_images/fond_sitePO_2.jpg"
-          }
-        },
-        "image_4gtgqJ": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "image": "shopify://shop_images/fond_sitePO2_2.jpg"
-          }
-        },
-        "image_mJe7kr": {
-          "type": "image",
-          "settings": {
-            "link": "",
-            "image": "shopify://shop_images/fond_sitePO3.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "image_pag6Xh",
-        "image_4gtgqJ",
-        "image_mJe7kr"
-      ],
-      "name": "t:sections.slideshow-image.presets.image_optional_slides.name",
-      "settings": {
-        "full_width": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": false
       }
     },
     "slideshow_QxigTn": {
@@ -541,7 +501,6 @@
   },
   "order": [
     "hero_video_djwUbh",
-    "slideshow_image_TJCVaC",
     "slideshow_QxigTn",
     "slideshow",
     "76f128a3-8a28-4402-966a-7fef69f853e8",
