@@ -50,7 +50,6 @@
         },
         "hero_qPRqEe": {
           "type": "hero",
-          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
@@ -69,7 +68,6 @@
         },
         "hero_YBctmM": {
           "type": "hero",
-          "disabled": true,
           "settings": {
             "top_subheading": "",
             "title": "",
@@ -96,7 +94,7 @@
         "full_width": true,
         "desktop_size": 0,
         "mobile_size": 0,
-        "style": "dots",
+        "style": "minimal",
         "autoplay": true,
         "autoplay_speed": 5,
         "lazyload_images": true
